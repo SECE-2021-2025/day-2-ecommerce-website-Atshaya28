@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pizza App - Payment</title>
+</head>
+<body>
+  <h1>Pizza App - Payment</h1>
+  
+  <form action="process_payment.php" method="post">
+    <label for="name">Name on Card:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="card_number">Card Number:</label>
+    <input type="text" id="card_number" name="card_number" required><br><br>
+    
+    <label for="cvv">CVV:</label>
+    <input type="password" id="cvv" name="cvv" required><br><br>
+    
+    <input type="submit" value="Pay Now">
+  </form>
+</body>
+</html>

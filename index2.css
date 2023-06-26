@@ -1,0 +1,51 @@
+.pizzahut_heading {
+    font-size: 30px;
+    text-align: center;
+    background-color: orange;
+    padding: 5px;
+    color: white;
+    margin:15px;
+}
+.food{
+    margin: 15px;
+    padding: 10px;
+}
+.pizza_images{
+    background-size:cover;
+    height: 150px;
+    width: 230px;
+    border-radius: 5px;
+}
+.offer{
+    background-color: rgb(27, 158, 252);
+    color: white;
+    margin:4px;
+    text-align:center;
+    font-size: 1.3rem;
+    font-family: Okra, Helvetica, sans-serif;
+    border-radius: 30px;
+}
+.pepperoni{
+    text-align:center;
+    font-size:20px;
+    margin-top:2px;
+    padding-left: 20px;
+}
+.order{
+    background-color: rgb(54, 216, 10);
+    color:#F5F5F5;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.menu{
+  background-color: #f44336;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  font-size:medium;
+  text-decoration: none;
+  display: inline-block;
+  margin-inline-start: 600px;
+}
